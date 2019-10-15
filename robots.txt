@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quuochukie.bonnieschulkin.com/sitemap.xml
